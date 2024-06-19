@@ -1,0 +1,10 @@
+requests
+bottle
+waitress
+fluent-logger
+jaeger-client
+opentracing
+redis
+contextvars
+kafka-python
+asyncio-nats-client
